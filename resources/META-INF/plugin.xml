@@ -1,0 +1,14 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>RestYourEyesTheme</id>
+    <version>1.0.0</version>
+    <name>Rest Your Eyes</name>
+    <category>UI</category>
+    <vendor url="https://www.github.com/NicolasLCQ">NicolasLCQ</vendor>
+    <idea-version since-build="2024.3" />
+    <description>A Dark theme with all value under 200 in order to rest your eyes when coding</description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="RestYourEyesTheme" path="/theme/RestYourEyes.theme.json"/>
+    </extensions>
+</idea-plugin>
