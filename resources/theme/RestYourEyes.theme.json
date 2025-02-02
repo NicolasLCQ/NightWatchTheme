@@ -106,12 +106,6 @@
       "separatorColor": "",
       "hoverBackground": ""
     },
-    "AIAssistant": {
-      "Chat.AssistantMessage.inlineCodeBackground": "",
-      "InlinePrompt.PostGeneration.LineMarker.GradientEnd": "",
-      "Generated.Code.Editor.Line.Status.Marker": "",
-      "Chat.UserMessage.inlineCodeBackground": ""
-    },
     "Banner": {
       "infoBackground": "",
       "infoBorderColor": "",
@@ -526,17 +520,6 @@
       "LicenseList.licenseIdForeground": "",
       "LicenseList.licenseDetailsForeground": "",
       "separatorColor": ""
-    },
-    "LineProfiler": {
-      "Line.labelBackground": "",
-      "Line.foreground": "",
-      "IgnoredLine.labelBackground": "",
-      "IgnoredLine.foreground": "",
-      "HotLine.labelBackground": "",
-      "HotLine.hoverBackground": "",
-      "HotLine.foreground": "",
-      "Line.hoverBackground": ""
-
     },
     "Link": {
       "visitedForeground": "",
@@ -968,9 +951,6 @@
     "SplitPaneDivider": {
       "draggingColor": ""
     },
-    "SshRemoteRun": {
-      "successfulConnectionInfoLabel": ""
-    },
     "StatusBar": {
       "Widget.widgetInsets": "",
       "Breadcrumbs.navBarInsets": "",
@@ -1062,9 +1042,6 @@
     },
     "Tag": {
       "background": ""
-    },
-    "Terminal": {
-      "StartDebuggingButton.hoverBackground": ""
     },
     "TextArea": {
       "inactiveBackground": "",
