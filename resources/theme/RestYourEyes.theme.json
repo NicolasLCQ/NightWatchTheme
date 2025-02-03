@@ -616,9 +616,8 @@
       "background": ""
     },
     "Panel": {
-      "mouseShortcutBackground": "",
-      "foreground": "",
-      "background": ""
+      "background": "DefaultBackgroundColor",
+      "foreground": "DefaultForegroundColor"
     },
     "ParameterInfo": {
       "currentParameterForeground": "",
