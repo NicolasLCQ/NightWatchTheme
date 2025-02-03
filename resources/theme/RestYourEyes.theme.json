@@ -143,7 +143,6 @@
         "startBorderColor": "HighlightedButtonStartGradientColor",
         "endBorderColor": "HighlightedButtonEndGradientColor",
         "focusColor": "FocusBorderColor",
-        "focusedBorderColor": "FocusBorderColor",
         "loadingForeground": "DisabledForegroundColor",
         "shadowColor": "HighlightedButtonEndGradientColor"
       },
@@ -153,19 +152,15 @@
           "separatorColor": "DefaultForegroundColor"
         }
       },
-      "foreground": "DefaultForegroundColor",
-      "background": "DefaultBackgroundColor",
       "startBackground": "DefaultButtonStartGradientColor",
       "endBackground": "DefaultButtonEndGradientColor",
       "startBorderColor": "DefaultButtonStartGradientColor",
       "endBorderColor": "DefaultButtonEndGradientColor",
-      "focusedBorderColor": "DefaultFocusBorderColor",
+      "focusedBorderColor": "FocusBorderColor",
       "loadingForeground": "DisabledForegroundColor",
       "shadowColor": "DefaultButtonEndGradientColor",
-      "arc":"5",
       "disabledBorderColor": "DisabledForegroundColor",
-      "disabledText": "DisabledForegroundColor",
-      "minimumSize": ""
+      "disabledText": "DisabledForegroundColor"
     },
     "Code": {
       "Inline.foregroundColor": "",
