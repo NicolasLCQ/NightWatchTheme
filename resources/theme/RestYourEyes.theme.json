@@ -379,26 +379,11 @@
       "background": ""
     },
     "EditorTabs": {
-      "hoverSelectedBackground": "",
-      "hoverSelectedInactiveBackground": "",
-      "inactiveColoredFileBackground": "",
-      "tabContentActionsLeftInsets": "",
-      "tabContentActionsNoneInsets": "",
-      "tabContentActionsRightInsets": "",
-      "tabInsets": "",
-      "unselectedAlpha": "",
-      "unselectedBlend": "",
-      "verticalTabInsets": "",
-      "hoverInactiveBackground": "",
-      "fontSizeOffset": "",
-      "underlineColor": "",
-      "hoverBackground": "",
-      "underlinedTabBackground": "",
-      "underlineHeight": "",
-      "underlinedTabForeground": "",
-      "inactiveUnderlineColor": "",
-      "borderColor": "",
-      "background": ""
+      "underlineHeight": "0",
+      "underlinedTabForeground": "DefaultForegroundColor",
+      "underlinedTabBackground": "SelectedBackgroundColor",
+      "hoverSelectedBackground": "HoverBackgroundColor",
+      "hoverSelectedInactiveBackground": "HoverBackgroundColor"
     },
     "FileColor": {
       "Yellow": "",
