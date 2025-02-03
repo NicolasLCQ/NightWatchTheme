@@ -940,26 +940,14 @@
       "Button.iconSize": ""
     },
     "ToolWindow": {
-      "HeaderTab.underlineHeight": "",
-      "HeaderTab.underlinedTabInactiveBackground": "",
-      "HeaderTab.underlinedTabBackground": "",
-      "HeaderTab.underlineColor": "",
-      "HeaderTab.selectedInactiveBackground": "",
-      "HeaderTab.padding": "",
-      "HeaderTab.inactiveUnderlineColor": "",
-      "HeaderTab.hoverInactiveBackground": "",
-      "HeaderTab.hoverBackground": "",
-      "HeaderCloseButton.background": "",
-      "Header.padding": "",
-      "Header.height": "",
-      "Header.fontSizeOffset": "",
-      "Header.borderColor": "",
-      "Button.selectedForeground": "",
-      "Button.selectedBackground": "",
-      "Button.hoverBackground": "",
-      "Header.inactiveBackground": "",
-      "Header.background": "",
-      "background": ""
+      "HeaderTab": {
+        "hoverBackground": "DefaultBackgroundColor",
+        "hoverInactiveBackground": "DefaultBackgroundColor",
+        "underlinedTabBackground": "DefaultBackgroundColor",
+        "underlineHeight": "0",
+        "selectedInactiveBackground": "DefaultBackgroundColor",
+        "underlinedTabInactiveBackground": "DefaultBackgroundColor"
+      }
     },
     "ToolBar": {
       "verticalToolbarInsets": "",
