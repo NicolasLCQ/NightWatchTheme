@@ -531,15 +531,7 @@
     "MainMenu": {
       "transparentSelectionBackground": ""
     },
-    "MainToolbar": {
-      "Dropdown.maxWidth": "",
-      "Button.size": "",
-      "Button.iconSize": "",
-      "Icon.insets": "",
-      "fontSizeOffset": "",
-      "background": "",
-      "separatorColor": ""
-    },
+    "MainToolbar.background": "PureBlack",
     "MainWindow": {
       "Tab.separatorColor": "",
       "Tab.selectedInactiveBackground": "",
