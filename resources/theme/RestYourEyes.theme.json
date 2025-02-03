@@ -1139,10 +1139,6 @@
       "GitLog.headIconColor": "",
       "FileHistory.Commit.selectedBranchBackground": ""
     },
-    "Viewport": {
-      "foreground": "",
-      "background": ""
-    },
     "WelcomeScreen": {
       "SidePanel.background": "",
       "Projects.selectionInactiveBackground": "",
