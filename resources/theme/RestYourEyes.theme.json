@@ -137,31 +137,34 @@
       "iconHoverAlpha": ""
     },
     "Button": {
-      "background": "",
-      "Split.default.separatorColor": "",
-      "default.startBorderColor": "",
-      "default.startBackground": "",
-      "default.shadowColor": "",
-      "default.loadingForeground": "",
-      "default.foreground": "",
-      "default.focusedBorderColor": "",
-      "default.focusColor": "",
-      "default.endBorderColor": "",
-      "default.endBackground": "",
-      "Split.default.iconColor": "",
-      "shadowColor": "",
-      "loadingForeground": "",
-      "focusedBorderColor": "",
-      "startBorderColor": "",
-      "endBorderColor": "",
-      "startBackground": "",
-      "endBackground": "",
-      "disabledBorderColor": "",
-      "shadowWidth": "",
-      "foreground": "",
-      "arc": "",
-      "minimumSize": "",
-      "disabledText": ""
+      "default": {
+        "startBackground": "HighlightedButtonStartGradientColor",
+        "endBackground": "HighlightedButtonEndGradientColor",
+        "startBorderColor": "HighlightedButtonStartGradientColor",
+        "endBorderColor": "HighlightedButtonEndGradientColor",
+        "focusColor": "FocusBorderColor",
+        "focusedBorderColor": "FocusBorderColor",
+        "loadingForeground": "DisabledForegroundColor",
+        "shadowColor": "HighlightedButtonEndGradientColor"
+      },
+      "Split": {
+        "default": {
+          "iconColor": "DefaultForegroundColor",
+          "separatorColor": "DefaultForegroundColor"
+        }
+      },
+      "foreground": "DefaultForegroundColor",
+      "background": "DefaultBackgroundColor",
+      "startBackground": "DefaultButtonStartGradientColor",
+      "endBackground": "DefaultButtonEndGradientColor",
+      "startBorderColor": "DefaultButtonStartGradientColor",
+      "endBorderColor": "DefaultButtonEndGradientColor",
+      "focusedBorderColor": "DefaultFocusBorderColor",
+      "loadingForeground": "DisabledForegroundColor",
+      "shadowColor": "DefaultButtonEndGradientColor",
+      "disabledBorderColor": "DisabledForegroundColor",
+      "disabledText": "DisabledForegroundColor",
+      "minimumSize": ""
     },
     "Code": {
       "Inline.foregroundColor": "",
