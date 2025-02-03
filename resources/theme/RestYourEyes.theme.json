@@ -25,6 +25,7 @@
     "WarningBorderColor": "#643200",
 
     "DefaultForegroundColor": "#c8c8c8",
+    "RestFullForegroundColor": "#969696",
     "DisabledForegroundColor": "#646464",
     "ErrorForegroundColor": "#640000",
 
@@ -1061,20 +1062,16 @@
       "background": ""
     },
     "Tree": {
-      "forceFocusedSelectionForeground": "",
-      "hash": "",
-      "paintLines": "",
-      "modifiedItemForeground": "",
-      "Selection.arc": "",
-      "rowHeight": "",
-      "errorForeground": "",
-      "selectionInactiveBackground": "",
-      "hoverInactiveBackground": "",
-      "hoverBackground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "foreground": "DefaultForegroundColor",
+      "hoverInactiveBackground": "HoverBackgroundColor",
+      "hoverBackground": "HoverBackgroundColor",
+      "errorForeground": "ErrorForegroundColor",
+      "Selection": {
+        "arc": "15"
+      },
+      "selectionBackground": "SelectedBackgroundColor",
+      "selectionForeground": "DefaultForegroundColor",
+      "selectionInactiveBackground": "SelectedBackgroundColor"
     },
     "UiDesigner": {
       "Preview.background": "",
