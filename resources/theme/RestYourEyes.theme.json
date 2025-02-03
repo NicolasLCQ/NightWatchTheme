@@ -329,14 +329,7 @@
       "tabHeight": ""
     },
     "DefaultTabs": {
-      "underlinedTabForeground": "",
-      "inactiveUnderlineColor": "",
-      "underlineColor": "",
-      "hoverBackground": "",
-      "background": "",
-      "borderColor": "",
-      "underlinedTabBackground": "",
-      "underlineHeight": ""
+      "underlineHeight": "0"
     },
     "DisclosureButton": {
       "textRightIconGap": "",
