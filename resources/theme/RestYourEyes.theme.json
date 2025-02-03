@@ -100,11 +100,10 @@
       "underlineHeight": "0"
     },
     "ActionButton": {
-      "hoverBorderColor": "",
-      "pressedBackground": "",
-      "pressedBorderColor": "",
-      "separatorColor": "",
-      "hoverBackground": ""
+      "hoverBackground": "HoverBackgroundColor",
+      "hoverBorderColor": "HoverBackgroundColor",
+      "pressedBackground": "SelectedBackgroundColor",
+      "pressedBorderColor": "SelectedBackgroundColor"
     },
     "Banner": {
       "infoBackground": "",
