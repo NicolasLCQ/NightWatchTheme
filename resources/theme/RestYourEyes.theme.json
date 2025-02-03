@@ -928,12 +928,6 @@
     "SplitPaneDivider": {
       "draggingColor": ""
     },
-    "StatusBar": {
-      "Widget.widgetInsets": "",
-      "Breadcrumbs.navBarInsets": "",
-      "fontSizeOffset": "",
-      "borderColor": ""
-    },
     "StripeToolbar": {
       "Button.iconPadding": "",
       "Button.size": "",
