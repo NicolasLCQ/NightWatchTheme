@@ -162,7 +162,7 @@
       "focusedBorderColor": "DefaultFocusBorderColor",
       "loadingForeground": "DisabledForegroundColor",
       "shadowColor": "DefaultButtonEndGradientColor",
-      "arc":"",
+      "arc":"5",
       "disabledBorderColor": "DisabledForegroundColor",
       "disabledText": "DisabledForegroundColor",
       "minimumSize": ""
