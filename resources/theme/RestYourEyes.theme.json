@@ -518,34 +518,16 @@
       "Dialog.background": ""
     },
     "Notification": {
-      "ToolWindow.warningForeground": "",
-      "ToolWindow.warningBorderColor": "",
-      "ToolWindow.warningBackground": "",
-      "ToolWindow.informativeForeground": "",
-      "ToolWindow.informativeBorderColor": "",
-      "ToolWindow.informativeBackground": "",
-      "ToolWindow.errorForeground": "",
-      "ToolWindow.errorBorderColor": "",
-      "ToolWindow.errorBackground": "",
-      "MoreButton.innerBorderColor": "",
-      "MoreButton.foreground": "",
-      "MoreButton.background": "",
-      "Button.borderColor": "",
-      "Button.background": "",
-      "contentActionsInset": "",
-      "iconOffsetSize": "",
-      "titleActionsInset": "",
-      "titleContentInset": "",
-      "errorBorderColor": "",
-      "Button.foreground": "",
-      "linkForeground": "",
-      "arc": "",
-      "errorBackground": "",
-      "errorForeground": "",
-      "borderInsets": "",
-      "foreground": "",
-      "background": "",
-      "borderColor": ""
+      "ToolWindow": {
+        "informativeBackground": "DefaultBackgroundColor",
+        "informativeBorderColor": "DefaultBorderColor",
+        "informativeForeground": "DefaultForegroundColor"
+      },
+      "MoreButton": {
+        "innerBorderColor": "DefaultBorderColor"
+      },
+      "arc": "15",
+      "linkForeground": "LinkForegroundColor"
     },
     "NotificationsToolwindow": {
       "Notification.hoverBackground": "",
