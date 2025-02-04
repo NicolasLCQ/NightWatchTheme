@@ -116,9 +116,6 @@
       "warningBackground": "WarningBackgroundColor",
       "warningBorderColor": "WarningBorderColor"
     },
-    "BigSpinner": {
-      "background": ""
-    },
     "Bookmark": {
       "MnemonicCurrent.foreground": "",
       "MnemonicCurrent.background": "",
