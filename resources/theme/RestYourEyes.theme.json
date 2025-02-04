@@ -28,6 +28,7 @@
     "RestFullForegroundColor": "#969696",
     "DisabledForegroundColor": "#646464",
     "ErrorForegroundColor": "#640000",
+    "ModifiedForegroundColor": "#009600",
 
     "LinkForegroundColor": "#000064",
 
@@ -190,18 +191,11 @@
       "background": ""
     },
     "ComboBox": {
-      "nonEditableBackground": "",
-      "ArrowButton.nonEditableBackground": "",
-      "ArrowButton.iconColor": "",
-      "ArrowButton.disabledIconColor": "",
-      "ArrowButton.background": "",
-      "modifiedItemForeground": "",
-      "minimumSize": "",
-      "disabledForeground": "",
-      "selectionBackground": "",
-      "selectionForeground": "",
-      "foreground": "",
-      "background": ""
+      "nonEditableBackground": "DefaultBackgroundColor",
+      "ArrowButton.nonEditableBackground": "DefaultBackgroundColor",
+      "ArrowButton.iconColor": "DefaultForegroundColor",
+      "ArrowButton.disabledIconColor": "DisabledForegroundColor",
+      "modifiedItemForeground": "ModifiedForegroundColor"
     },
     "ComboBoxButton": {
       "background": ""
