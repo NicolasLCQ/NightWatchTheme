@@ -329,23 +329,6 @@
     "EditorPane": {
       "caretForeground": "DefaultForegroundColor"
     },
-    "Editor": {
-      "SearchField.borderInsets": "",
-      "SearchField.background": "",
-      "Notification.WithoutStatus.borderInsets": "",
-      "Notification.borderInsets": "",
-      "Gutter.gapAfterVcsMarkersWidth": "",
-      "Gutter.gapAfterLineNumbersWidth": "",
-      "Gutter.gapAfterIconsWidth": "",
-      "Gutter.emptyAnnotationAreaWidth": "",
-      "ReplaceToolbar.borderInsets": "",
-      "SearchReplaceModePanel.borderInsets": "",
-      "shortcutForeground": "",
-      "Toolbar.borderColor": "",
-      "SearchToolbar.borderInsets":"",
-      "foreground": "",
-      "background": ""
-    },
     "EditorTabs": {
       "underlineHeight": "0",
       "underlinedTabForeground": "DefaultForegroundColor",
