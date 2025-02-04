@@ -197,9 +197,6 @@
       "ArrowButton.disabledIconColor": "DisabledForegroundColor",
       "modifiedItemForeground": "ModifiedForegroundColor"
     },
-    "ComboBoxButton": {
-      "background": ""
-    },
     "ComboPopup": {
       "border": ""
     },
