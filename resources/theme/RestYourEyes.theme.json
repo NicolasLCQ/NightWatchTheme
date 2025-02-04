@@ -201,18 +201,8 @@
       "border": "DefaultBorderColor"
     },
     "CompletionPopup": {
-      "selectionInnerInsets": "",
-      "nonFocusedMask": "",
-      "matchForeground": "",
-      "BodyWithAdvertiser.insets": "",
-      "Body.insets": "",
-      "Advertiser.foreground": "",
-      "Advertiser.fontSizeOffset": "",
-      "Advertiser.borderInsets": "",
-      "Advertiser.background": "",
-      "selectionInactiveBackground": "",
-      "selectionBackground": "",
-      "foreground": ""
+      "matchForeground": "DisabledForegroundColor",
+      "Advertiser.foreground": "DisabledForegroundColor"
     },
     "ComplexPopup": {
       "TextField.inputInsets": "",
