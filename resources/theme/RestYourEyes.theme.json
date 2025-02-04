@@ -121,8 +121,8 @@
       "iconBackground": ""
     },
     "Borders": {
-      "color": "",
-      "ContrastBorderColor": ""
+      "color": "DefaultBorderColor",
+      "ContrastBorderColor": "DefaultBorderColor"
     },
     "Breakpoint": {
       "iconHoverAlpha": ""
