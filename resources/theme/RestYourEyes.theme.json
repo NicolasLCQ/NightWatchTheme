@@ -124,9 +124,6 @@
       "color": "DefaultBorderColor",
       "ContrastBorderColor": "DefaultBorderColor"
     },
-    "Breakpoint": {
-      "iconHoverAlpha": ""
-    },
     "Button": {
       "default": {
         "startBackground": "HighlightedButtonStartGradientColor",
