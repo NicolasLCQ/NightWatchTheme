@@ -931,15 +931,7 @@
       "selectionBackgroundInactive": ""
     },
     "TextField": {
-      "minimumSize": "",
-      "highlight": "",
-      "darkShadow": "",
-      "inactiveForeground": "",
-      "caretForeground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "inactiveForeground": "DisabledForegroundColor"
     },
     "TextPane": {
       "inactiveBackground": "",
