@@ -390,15 +390,6 @@
       "scopesPanelInsets": "",
       "bottomPanelInsets": ""
     },
-    "FormattedTextField": {
-      "caretForeground": "",
-      "inactiveBackground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "inactiveForeground": "",
-      "foreground": "",
-      "background": ""
-    },
     "GotItTooltip": {
       "textInset": "",
       "stepForeground": "",
@@ -948,11 +939,8 @@
       "background": ""
     },
     "TabbedPane": {
-      "background": "DefaultBackgroundColor",
       "underlineColor": "SelectedBackgroundColor",
-      "foreground": "DefaultForegroundColor",
       "focusColor": "SelectedBackgroundColor",
-      "disabledForeground": "DisabledForegroundColor",
       "hoverColor": "HoverBackgroundColor",
       "tabSelectionArc": "15"
     },
