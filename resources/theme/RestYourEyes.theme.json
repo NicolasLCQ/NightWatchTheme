@@ -117,13 +117,6 @@
       "warningBorderColor": "WarningBorderColor"
     },
     "Bookmark": {
-      "MnemonicCurrent.foreground": "",
-      "MnemonicCurrent.background": "",
-      "MnemonicAvailable.foreground": "",
-      "MnemonicAvailable.borderColor": "",
-      "MnemonicAvailable.background": "",
-      "MnemonicAssigned.foreground": "",
-      "MnemonicAssigned.background": "",
       "Mnemonic.iconForeground": "",
       "iconBackground": ""
     },
