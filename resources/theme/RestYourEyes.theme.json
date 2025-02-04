@@ -668,12 +668,6 @@
     "ProgressIcon": {
       "color": ""
     },
-    "RadioButton": {
-      "iconSize": "",
-      "disabledText": "",
-      "foreground": "",
-      "background": ""
-    },
     "RadioButtonMenuItem": {
       "acceleratorSelectionForeground": "",
       "acceleratorForeground": "",
