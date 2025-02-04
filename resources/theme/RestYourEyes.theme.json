@@ -163,23 +163,6 @@
       "disabledBorderColor": "DisabledForegroundColor",
       "disabledText": "DisabledForegroundColor"
     },
-    "Code": {
-      "Inline.foregroundColor": "",
-      "Inline.borderWidth": "",
-      "Inline.borderRadius": "",
-      "Inline.borderColor": "",
-      "Block.foregroundColor": "",
-      "Block.EditorPane.borderColor": "",
-      "Block.EditorPane.backgroundOpacity": "",
-      "Block.EditorPane.backgroundColor": "",
-      "Block.borderWidth": "",
-      "Block.borderRadius": "",
-      "Block.borderColor": "",
-      "Block.backgroundOpacity": "",
-      "Block.backgroundColor": "",
-      "Inline.backgroundColor": "",
-      "Inline.backgroundOpacity": ""
-    },
     "CheckBox": {
       "iconSize": "",
       "select": "",
