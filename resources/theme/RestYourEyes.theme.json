@@ -948,17 +948,13 @@
       "background": ""
     },
     "TabbedPane": {
-      "contentAreaColor": "",
-      "disabledUnderlineColor": "",
-      "hoverColor": "",
-      "tabSelectionArc": "",
-      "tabSelectionHeight": "",
-      "focusColor": "",
-      "tabHeight": "",
-      "underlineColor": "",
-      "disabledForeground": "",
-      "foreground": "",
-      "background": ""
+      "background": "DefaultBackgroundColor",
+      "underlineColor": "SelectedBackgroundColor",
+      "foreground": "DefaultForegroundColor",
+      "focusColor": "SelectedBackgroundColor",
+      "disabledForeground": "DisabledForegroundColor",
+      "hoverColor": "HoverBackgroundColor",
+      "tabSelectionArc": "15"
     },
     "Table": {
       "stripeColor": "",
