@@ -164,7 +164,6 @@
       "Users.1.Foreground": "",
       "Users.1.Background": "",
       "MainToolbar.NoConnectionLabelForeground": "",
-      "EndSessionPopup.timer.Foreground": "",
       "EndSessionPopup.link": "",
       "EndSessionPopup.info.Foreground": "",
       "EndSessionPopup.Foreground": "",
@@ -189,14 +188,6 @@
       "swatchesDefaultRecentColor": "",
       "foreground": "",
       "background": ""
-    },
-    "CombinedDiff": {
-      "mainToolbarInsets": "",
-      "leftRightBlockInset": "",
-      "gapBetweenBlocks": "",
-      "fileToolbarInsets": "",
-      "BlockBorder.selectedInactiveColor": "",
-      "BlockBorder.selectedActiveColor": ""
     },
     "ComboBox": {
       "nonEditableBackground": "",
