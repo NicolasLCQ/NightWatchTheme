@@ -943,15 +943,10 @@
       "background": ""
     },
     "ToggleButton": {
-      "onForeground": "",
-      "offBackground": "",
-      "onBackground": "",
-      "offForeground": "",
-      "disabledText": "",
-      "buttonColor": "",
-      "borderColor": "",
-      "foreground": "",
-      "background": ""
+      "offBackground": "DefaultBackgroundColor",
+      "onBackground": "DefaultBackgroundColor",
+      "offForeground": "DisabledForegroundColor",
+      "onForeground": "DefaultForegroundColor"
     },
     "ToolTip": {
       "Actions.infoForeground": "",
