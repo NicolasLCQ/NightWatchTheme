@@ -150,16 +150,6 @@
       "disabledBorderColor": "DisabledForegroundColor",
       "disabledText": "DisabledForegroundColor"
     },
-    "CheckBoxMenuItem": {
-      "disabledBackground": "",
-      "acceleratorSelectionForeground": "",
-      "acceleratorForeground": "",
-      "disabledForeground": "",
-      "selectionBackground": "",
-      "selectionForeground": "",
-      "foreground": "",
-      "background": ""
-    },
     "CodeWithMe": {
       "Users.6.Foreground": "",
       "Users.6.Background": "",
