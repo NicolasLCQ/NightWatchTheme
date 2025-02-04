@@ -39,7 +39,7 @@
     "*": {
       "background": "DefaultBackgroundColor",
 
-      "selectionBackground":"SelectedBackgroundColor",
+      "selectionBackground": "SelectedBackgroundColor",
       "selectionInactiveBackground": "SelectedBackgroundColor",
       "selectionBackgroundInactive": "SelectedBackgroundColor",
       "selectedInactiveBackground": "SelectedBackgroundColor",
@@ -344,14 +344,7 @@
       "borderColor": ""
     },
     "EditorPane": {
-      "inactiveForeground": "",
-      "caretForeground": "",
-      "inactiveBackground": "",
-      "splitBorder": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "caretForeground": "DefaultForegroundColor"
     },
     "Editor": {
       "SearchField.borderInsets": "",
