@@ -163,14 +163,6 @@
       "disabledBorderColor": "DisabledForegroundColor",
       "disabledText": "DisabledForegroundColor"
     },
-    "CheckBox": {
-      "iconSize": "",
-      "select": "",
-      "textIconGap": "",
-      "foreground": "",
-      "disabledText": "",
-      "background": ""
-    },
     "CheckBoxMenuItem": {
       "disabledBackground": "",
       "acceleratorSelectionForeground": "",
