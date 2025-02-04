@@ -107,14 +107,14 @@
       "pressedBorderColor": "SelectedBackgroundColor"
     },
     "Banner": {
-      "infoBackground": "",
-      "infoBorderColor": "",
-      "successBackground": "",
-      "successBorderColor": "",
-      "warningBackground": "",
-      "warningBorderColor": "",
-      "errorBackground": "",
-      "errorBorderColor": ""
+      "errorBackground": "ErrorBackgroundColor",
+      "errorBorderColor": "ErrorBorderColor",
+      "infoBackground": "DefaultBackgroundColor",
+      "infoBorderColor": "DefaultBorderColor",
+      "successBackground": "SuccesBackgroundColor",
+      "successBorderColor": "SuccesBorderColor",
+      "warningBackground": "WarningBackgroundColor",
+      "warningBorderColor": "WarningBorderColor"
     },
     "BigSpinner": {
       "background": ""
