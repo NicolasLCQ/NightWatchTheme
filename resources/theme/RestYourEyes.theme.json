@@ -204,13 +204,6 @@
       "matchForeground": "DisabledForegroundColor",
       "Advertiser.foreground": "DisabledForegroundColor"
     },
-    "ComplexPopup": {
-      "TextField.inputInsets": "",
-      "TextField.borderInsets": "",
-      "innerBorderInsets": "",
-      "Header.insets": "",
-      "Header.background": ""
-    },
     "Component": {
       "warningFocusColor": "",
       "infoForeground": "",
