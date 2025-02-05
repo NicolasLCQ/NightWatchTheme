@@ -28,7 +28,10 @@
     "RestFullForegroundColor": "#969696",
     "DisabledForegroundColor": "#646464",
     "ErrorForegroundColor": "#640000",
-    "ModifiedForegroundColor": "#009600",
+
+    "VariableForegroundColor": "#960096",
+    "TypeForegroundColor": "#009600",
+    "ModifiedForegroundColor": "#000096",
 
     "LinkForegroundColor": "#000064",
 
@@ -220,24 +223,21 @@
       "borderColor": ""
     },
     "Debugger": {
-      "Variables.valueForeground": "",
-      "Variables.typeForeground": "",
-      "Variables.modifyingValueForeground": "",
-      "Variables.exceptionForeground": "",
-      "Variables.evaluatingExpressionForeground": "",
-      "Variables.errorMessageForeground": "",
+      "Variables.valueForeground": "VariableForegroundColor",
+      "Variables.typeForeground": "TypeForegroundColor",
+      "Variables.modifyingValueForeground": "ModifiedForegroundColor",
+      "Variables.exceptionForeground": "ErrorForegroundColor",
+      "Variables.evaluatingExpressionForeground": "DisabledForegroundColor",
+      "Variables.errorMessageForeground": "ErrorForegroundColor",
       "Variables.collectingDataForeground": "",
-      "Variables.changedValueForeground": "",
-      "EvaluateExpression.background": ""
+      "Variables.changedValueForeground": "ModifiedForegroundColor",
+      "EvaluateExpression.background": "DefaultBackgroundColor"
     },
     "DebuggerPopup": {
-      "borderColor": ""
+      "borderColor": "DefaultBorderColor"
     },
     "DebuggerTabs": {
-      "fontSizeOffset": "",
-      "underlinedTabBackground": "",
-      "underlineHeight": "",
-      "tabHeight": ""
+      "underlineHeight": "0"
     },
     "DefaultTabs": {
       "underlineHeight": "0"
