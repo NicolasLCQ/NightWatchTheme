@@ -431,14 +431,9 @@
       "foreground": "DefaultForegroundColor"
     },
     "ParameterInfo": {
-      "currentParameterForeground": "",
-      "currentOverloadBackground": "",
-      "lineSeparatorColor": "",
-      "infoForeground": "",
-      "disabledForeground": "",
-      "borderColor": "",
-      "foreground": "",
-      "background": ""
+      "currentParameterForeground": "DefaultForegroundColor",
+      "currentOverloadBackground": "DefaultBackgroundColor",
+      "lineSeparatorColor": "DefaultBorderColor"
     },
     "PasswordField": {
       "capsLockIconColor": "",
