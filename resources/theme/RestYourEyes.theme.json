@@ -473,16 +473,7 @@
       "separatorColor": ""
     },
     "PopupMenu": {
-      "translucentBackground": "",
-      "Selection.outerInsets": "",
-      "borderInsets": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "borderWidth": "",
-      "Selection.arc": "",
-      "Selection.innerInsets": "",
-      "background": ""
+      "Selection.arc": "15"
     },
     "PopupMenuSeparator": {
       "stripeWidth": "",
