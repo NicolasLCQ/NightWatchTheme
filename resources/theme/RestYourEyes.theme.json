@@ -423,11 +423,6 @@
       "arc": "15",
       "linkForeground": "LinkForegroundColor"
     },
-    "NotificationsToolwindow": {
-      "Notification.hoverBackground": "",
-      "newNotification.hoverBackground": "",
-      "newNotification.background": ""
-    },
     "OnePixelDivider": {
       "background": ""
     },
