@@ -33,7 +33,7 @@
     "TypeForegroundColor": "#009600",
     "ModifiedForegroundColor": "#000096",
 
-    "LinkForegroundColor": "#000064",
+    "LinkForegroundColor": "#000096",
 
     "Dev": "#FFFF00",
     "NotFound": "#00FF00",
@@ -422,10 +422,6 @@
       },
       "arc": "15",
       "linkForeground": "LinkForegroundColor"
-    },
-    "OptionButton": {
-      "default.separatorColor": "",
-      "separatorColor": ""
     },
     "OptionPane": {
       "messageForeground": "",
