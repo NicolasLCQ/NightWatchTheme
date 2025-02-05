@@ -411,9 +411,6 @@
       "shadow": "",
       "highlight": ""
     },
-    "NewUiOnboarding": {
-      "Dialog.background": ""
-    },
     "Notification": {
       "ToolWindow": {
         "informativeBackground": "DefaultBackgroundColor",
