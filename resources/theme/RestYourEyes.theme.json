@@ -424,9 +424,7 @@
       "linkForeground": "LinkForegroundColor"
     },
     "OptionPane": {
-      "messageForeground": "",
-      "foreground": "",
-      "background": ""
+      "messageForeground": "DefaultForegroundColor"
     },
     "Panel": {
       "background": "DefaultBackgroundColor",
