@@ -482,26 +482,22 @@
       "Bright.Popup.border": "DefaultBorderColor"
     },
     "ProblemsView": {
-      "projectAnalysisButtonBackground": ""
+      "projectAnalysisButtonBackground": "DefaultBackgroundColor"
     },
     "ProgressBar": {
       "warningEndColor": "",
-      "warningColor": "",
+      "warningColor": "WarningBackgroundColor",
       "trackColor": "",
-      "progressColor": "",
-      "passedEndColor": "",
-      "passedColor": "",
-      "indeterminateStartColor": "",
-      "indeterminateEndColor": "",
-      "failedEndColor": "",
-      "failedColor": "",
-      "selectionForeground":"",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "progressColor": "SuccesBackgroundColor",
+      "passedEndColor": "SuccesBackgroundColor",
+      "passedColor": "SuccesBackgroundColor",
+      "indeterminateStartColor": "DefaultButtonStartGradientColor",
+      "indeterminateEndColor": "DefaultButtonEndGradientColor",
+      "failedEndColor": "ErrorBorderColor",
+      "failedColor": "ErrorBackgroundColor"
     },
     "ProgressIcon": {
-      "color": ""
+      "color": "RestFullForegroundColor"
     },
     "RadioButtonMenuItem": {
       "acceleratorSelectionForeground": "",
