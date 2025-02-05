@@ -13,6 +13,9 @@
     "WarningBackgroundColor": "#643200",
     "SuccesBackgroundColor": "#006400",
 
+    "StopButtonBackgroundColor": "#640000",
+    "RunButtonBackgroundColor": "#006400",
+
     "ToUpdateBackgroundColor": "#006464",
     "ToInstallBackgroundColor": "#006400",
 
@@ -526,19 +529,11 @@
       "Debug.activeBackground": "SelectedBackgroundColor"
     },
     "RunWidget": {
-      "toolbarHeight": "",
-      "toolbarBorderHeight": "",
-      "toolbarBorderDirectionalGap": "",
-      "stopBackground": "",
+      "stopBackground": "StopButtonBackgroundColor",
       "runningIconColor": "",
-      "runningBackground": "",
-      "runIconColor": "",
-      "configurationSelectorFontSizeOffset": "",
-      "actionButtonWidth": "",
-      "pressedBackground": "",
-      "iconColor": "",
-      "hoverBackground": "",
-      "foreground": ""
+      "runningBackground": "RunButtonBackgroundColor",
+      "runIconColor": "RunButtonBackgroundColor",
+      "iconColor": "RunButtonBackgroundColor"
     },
     "ScrollBar": {
       "Transparent.trackColor": "",
