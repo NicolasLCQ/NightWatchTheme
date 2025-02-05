@@ -570,10 +570,6 @@
       "List.settingsBackground": "DefaultBackgroundColor",
       "List.separatorForeground": "DefaultBorderColor"
     },
-    "SearchField": {
-      "errorBackground": "",
-      "errorForeground": ""
-    },
     "SearchOption": {
       "selectedPressedBackground": "",
       "selectedHoveredBackground": "",
