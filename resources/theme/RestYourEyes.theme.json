@@ -476,14 +476,10 @@
       "Selection.arc": "15"
     },
     "PresentationAssistant": {
-      "Pale.PopupBackground": "",
-      "Pale.Popup.foreground": "",
-      "Pale.Popup.border": "",
-      "Pale.keymapLabel": "",
-      "Bright.PopupBackground": "",
-      "Bright.Popup.foreground": "",
-      "Bright.Popup.border": "",
-      "Bright.keymapLabel": ""
+      "Pale.PopupBackground": "DefaultBackgroundColor",
+      "Pale.Popup.border": "DefaultBorderColor",
+      "Bright.PopupBackground": "DefaultBackgroundColor",
+      "Bright.Popup.border": "DefaultBorderColor"
     },
     "ProblemsView": {
       "projectAnalysisButtonBackground": ""
