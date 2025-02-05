@@ -436,13 +436,7 @@
       "lineSeparatorColor": "DefaultBorderColor"
     },
     "PasswordField": {
-      "capsLockIconColor": "",
-      "inactiveForeground": "",
-      "caretForeground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "capsLockIconColor": "ErrorForegroundColor"
     },
     "Plugins": {
       "tagForeground": "",
