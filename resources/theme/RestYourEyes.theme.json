@@ -567,18 +567,8 @@
       "background": ""
     },
     "SearchEverywhere": {
-      "List.settingsBackground": "",
-      "List.separatorForeground": "",
-      "Header.background": "",
-      "SearchField.background": "",
-      "Tab.selectedBackground": "",
-      "Tab.selectedForeground": "",
-      "Advertiser.borderInsets": "",
-      "Advertiser.background": "",
-      "Advertiser.foreground": "",
-      "SearchField.infoForeground": "",
-      "SearchField.borderColor": "",
-      "List.separatorColor": ""
+      "List.settingsBackground": "DefaultBackgroundColor",
+      "List.separatorForeground": "DefaultBorderColor"
     },
     "SearchField": {
       "errorBackground": "",
