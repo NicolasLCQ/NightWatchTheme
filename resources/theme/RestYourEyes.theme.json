@@ -499,16 +499,6 @@
     "ProgressIcon": {
       "color": "RestFullForegroundColor"
     },
-    "RadioButtonMenuItem": {
-      "acceleratorSelectionForeground": "",
-      "acceleratorForeground": "",
-      "disabledBackground": "",
-      "disabledForeground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
-    },
     "Review": {
       "Timeline.Thread.Diff.AnchorLine": "",
       "State.Foreground": "",
