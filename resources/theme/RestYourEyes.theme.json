@@ -521,9 +521,9 @@
       "AI.Background": ""
     },
     "RunToolbar": {
-      "Run.activeBackground": "",
-      "Profile.activeBackground": "",
-      "Debug.activeBackground": ""
+      "Run.activeBackground": "SelectedBackgroundColor",
+      "Profile.activeBackground": "SelectedBackgroundColor",
+      "Debug.activeBackground": "SelectedBackgroundColor"
     },
     "RunWidget": {
       "toolbarHeight": "",
