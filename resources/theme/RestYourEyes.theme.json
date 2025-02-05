@@ -576,10 +576,10 @@
       "selectedBackground": "HoverBackgroundColor"
     },
     "SegmentedButton": {
-      "selectedStartBorderColor": "",
-      "selectedEndBorderColor": "",
-      "selectedButtonColor": "",
-      "focusedSelectedButtonColor": ""
+      "selectedStartBorderColor": "Dev",
+      "selectedEndBorderColor": "Dev",
+      "selectedButtonColor": "Dev",
+      "focusedSelectedButtonColor": "Dev"
     },
     "Separator": {
       "separatorColor": ""
