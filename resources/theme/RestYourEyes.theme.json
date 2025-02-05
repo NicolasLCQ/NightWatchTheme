@@ -206,7 +206,6 @@
     },
     "Component": {
       "warningFocusColor": "",
-      "infoForeground": "",
       "inactiveWarningFocusColor": "",
       "inactiveErrorFocusColor": "",
       "hoverIconColor": "",
@@ -219,10 +218,6 @@
       "disabledBorderColor": "",
       "arc": "",
       "borderColor": ""
-    },
-    "Counter": {
-      "background": "",
-      "foreground": ""
     },
     "Debugger": {
       "Variables.valueForeground": "",
