@@ -385,7 +385,7 @@
       "activeForeground": ""
     },
     "MainMenu": {
-      "transparentSelectionBackground": ""
+      "transparentSelectionBackground": "SelectedBackgroundColor"
     },
     "MainToolbar.background": "PureBlack",
     "MainWindow": {
@@ -405,39 +405,11 @@
       "allocatedBackground": ""
     },
     "Menu": {
-      "Selection.outerInsets": "",
-      "Selection.innerInsets": "",
-      "Selection.arc": "",
-      "borderInsets": "",
-      "disabledBackground": "",
-      "acceleratorSelectionForeground": "",
-      "acceleratorForeground": "",
-      "borderColor": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "disabledForeground": "",
-      "foreground": "",
-      "background": "",
-      "separatorColor": ""
+      "Selection.arc": "15"
     },
     "MenuBar": {
       "shadow": "",
-      "highlight": "",
-      "disabledBackground": "",
-      "borderColor": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "disabledForeground": "",
-      "foreground": ""
-    },
-    "MenuItem": {
-      "acceleratorForeground": "",
-      "background": "",
-      "disabledBackground":"",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "disabledForeground": "",
-      "foreground": ""
+      "highlight": ""
     },
     "NavBar": {
       "Breadcrumbs.itemInsets": "",
