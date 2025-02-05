@@ -411,10 +411,6 @@
       "shadow": "",
       "highlight": ""
     },
-    "NavBar": {
-      "Breadcrumbs.itemInsets": "",
-      "borderColor": ""
-    },
     "NewUiOnboarding": {
       "Dialog.background": ""
     },
