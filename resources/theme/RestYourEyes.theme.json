@@ -571,9 +571,9 @@
       "List.separatorForeground": "DefaultBorderColor"
     },
     "SearchOption": {
-      "selectedPressedBackground": "",
-      "selectedHoveredBackground": "",
-      "selectedBackground": ""
+      "selectedPressedBackground": "SelectedBackgroundColor",
+      "selectedHoveredBackground": "HoverBackgroundColor",
+      "selectedBackground": "HoverBackgroundColor"
     },
     "SegmentedButton": {
       "selectedStartBorderColor": "",
