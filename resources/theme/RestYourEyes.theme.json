@@ -13,6 +13,10 @@
     "WarningBackgroundColor": "#643200",
     "SuccesBackgroundColor": "#006400",
 
+    "ToUpdateBackgroundColor": "#006464",
+    "ToInstallBackgroundColor": "#006400",
+
+
     "DefaultButtonStartGradientColor": "#c80000",
     "HighlightedButtonStartGradientColor": "#ff0000",
     "DefaultButtonEndGradientColor": "#0000c8",
@@ -23,6 +27,9 @@
     "ErrorBorderColor": "#640000",
     "SuccesBorderColor": "#006400",
     "WarningBorderColor": "#643200",
+
+    "ToUpdateBorderColor": "#006464",
+    "ToInstallBorderColor": "#006400",
 
     "DefaultForegroundColor": "#c8c8c8",
     "RestFullForegroundColor": "#969696",
@@ -150,7 +157,7 @@
       "endBorderColor": "DefaultButtonEndGradientColor",
       "focusedBorderColor": "FocusBorderColor",
       "loadingForeground": "DisabledForegroundColor",
-      "shadowColor": "DefaultButtonEndGradientColor",
+      "shadowColor": "DefaultBackgroundColor",
       "disabledBorderColor": "DisabledForegroundColor",
       "disabledText": "DisabledForegroundColor"
     },
@@ -439,31 +446,21 @@
       "capsLockIconColor": "ErrorForegroundColor"
     },
     "Plugins": {
-      "tagForeground": "",
-      "tagBackground": "",
-      "suggestedLabelBackground": "",
-      "SectionHeader.foreground": "",
-      "SectionHeader.background": "",
-      "ScreenshotPagination.CurrentImage.fillColor": "",
-      "lightSelectionBackground": "",
-      "eapTagBackground": "",
-      "Button.updateForeground": "",
-      "Button.updateBorderColor": "",
-      "Button.updateBackground": "",
-      "Button.installForeground": "",
-      "Button.installFocusedBackground": "",
-      "Button.installFillForeground": "",
-      "Button.installFillBackground": "",
-      "Button.installBorderColor": "",
-      "Button.installBackground": "",
-      "SearchField.background": "",
-      "hoverBackground": "",
-      "Tab.selectedBackground": "",
-      "Tab.hoverBackground": "",
-      "Tab.selectedForeground": "",
-      "disabledForeground": "",
-      "borderColor": "",
-      "background": ""
+      "tagForeground": "DefaultForegroundColor",
+      "tagBackground": "DefaultBackgroundColor",
+      "suggestedLabelBackground": "DefaultBackgroundColor",
+      "SectionHeader.foreground": "DefaultForegroundColor",
+      "SectionHeader.background": "DefaultBackgroundColor",
+      "ScreenshotPagination.CurrentImage.fillColor": "SelectedBackgroundColor",
+      "lightSelectionBackground": "SelectedBackgroundColor",
+      "Button.updateForeground": "DefaultForegroundColor",
+      "Button.updateBorderColor": "ToUpdateBorderColor",
+      "Button.updateBackground": "ToUpdateBackgroundColor",
+      "Button.installForeground": "DefaultForegroundColor",
+      "Button.installFillForeground": "DefaultForegroundColor",
+      "Button.installFillBackground": "ToInstallBackgroundColor",
+      "Button.installBorderColor": "ToInstallBorderColor",
+      "Button.installBackground": "DefaultBackgroundColor"
     },
     "Popup": {
       "Toolbar.background": "",
