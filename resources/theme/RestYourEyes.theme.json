@@ -803,8 +803,8 @@
       "background": ""
     },
     "Window": {
-      "undecorated.border": "",
-      "border": ""
+      "undecorated.border": "DefaultBorderColor",
+      "border": "DefaultBorderColor"
     }
   }
 }
