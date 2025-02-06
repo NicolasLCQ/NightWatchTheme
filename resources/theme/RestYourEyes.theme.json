@@ -16,6 +16,9 @@
     "StopButtonBackgroundColor": "#640000",
     "RunButtonBackgroundColor": "#006400",
 
+    "SearchMatchStartBackgroundColor": "#c76f00",
+    "SearchMatchEndBackgroundColor": "#969600",
+
     "ToUpdateBackgroundColor": "#006464",
     "ToInstallBackgroundColor": "#006400",
 
@@ -582,8 +585,8 @@
       "focusedSelectedButtonColor": "SelectedBackgroundColor"
     },
     "SearchMatch": {
-      "startBackground": "",
-      "endBackground": ""
+      "startBackground": "SearchMatchStartBackgroundColor",
+      "endBackground": "SearchMatchEndBackgroundColor"
     },
     "Settings": {
       "Spotlight.borderColor": ""
