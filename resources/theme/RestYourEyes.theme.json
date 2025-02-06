@@ -603,12 +603,6 @@
       "foreground": "",
       "background": ""
     },
-    "SpeedSearch": {
-      "errorForeground": "",
-      "borderColor": "",
-      "foreground": "",
-      "background": ""
-    },
     "Spinner": {
       "minimumSize": "",
       "background": ""
