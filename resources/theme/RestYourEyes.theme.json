@@ -603,11 +603,6 @@
       "foreground": "",
       "background": ""
     },
-    "StripeToolbar": {
-      "Button.iconPadding": "",
-      "Button.size": "",
-      "Button.iconSize": ""
-    },
     "ToolWindow": {
       "HeaderTab": {
         "hoverBackground": "DefaultBackgroundColor",
