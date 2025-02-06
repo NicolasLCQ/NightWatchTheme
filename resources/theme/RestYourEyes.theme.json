@@ -603,15 +603,6 @@
       "foreground": "",
       "background": ""
     },
-    "SplitPane": {
-      "darkShadow": "",
-      "shadow": "",
-      "highlight": "",
-      "background": ""
-    },
-    "SplitPaneDivider": {
-      "draggingColor": ""
-    },
     "StripeToolbar": {
       "Button.iconPadding": "",
       "Button.size": "",
