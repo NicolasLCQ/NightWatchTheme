@@ -589,12 +589,8 @@
       "endBackground": "SearchMatchEndBackgroundColor"
     },
     "Shortcut": {
-      "backgroundOpacity": "",
-      "foregroundColor": "",
-      "borderRadius": "",
-      "backgroundColor": "",
-      "borderColor": "",
-      "borderWidth": ""
+      "backgroundOpacity": "100",
+      "backgroundColor": "DefaultBackgroundColor"
     },
     "Slider": {
       "tickColor": "",
