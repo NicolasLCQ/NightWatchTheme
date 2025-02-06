@@ -746,6 +746,7 @@
       "errorBackground": "",
       "warningBackground": ""
     },
+
     "VersionControl": {
       "RefLabel.foreground": "",
       "RefLabel.backgroundBrightness": "",
