@@ -741,10 +741,10 @@
       "warningBackground": ""
     },
     "ValidationTooltip": {
-      "warningBorderColor": "",
-      "errorBorderColor": "",
-      "errorBackground": "",
-      "warningBackground": ""
+      "warningBorderColor": "WarningBorderColor",
+      "errorBorderColor": "ErrorBorderColor",
+      "errorBackground": "ErrorBackgroundColor",
+      "warningBackground": "WarningBackgroundColor"
     },
     "VersionControl": {
       "RefLabel.foreground": "",
