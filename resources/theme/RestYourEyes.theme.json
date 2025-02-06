@@ -202,9 +202,7 @@
       "AccessDisabled.accessDot": ""
     },
     "ColorChooser": {
-      "swatchesDefaultRecentColor": "",
-      "foreground": "",
-      "background": ""
+      "swatchesDefaultRecentColor": ""
     },
     "ComboBox": {
       "nonEditableBackground": "DefaultBackgroundColor",
@@ -221,19 +219,15 @@
       "Advertiser.foreground": "DisabledForegroundColor"
     },
     "Component": {
-      "warningFocusColor": "",
-      "inactiveWarningFocusColor": "",
-      "inactiveErrorFocusColor": "",
-      "hoverIconColor": "",
-      "focusWidth": "",
-      "errorFocusColor": "",
-      "arrowAreaWidth": "",
-      "iconColor": "",
-      "focusColor": "",
-      "focusedBorderColor": "",
-      "disabledBorderColor": "",
-      "arc": "",
-      "borderColor": ""
+      "warningFocusColor": "WarningBackgroundColor",
+      "inactiveWarningFocusColor": "WarningBackgroundColor",
+      "inactiveErrorFocusColor": "ErrorBackgroundColor",
+      "errorFocusColor": "ErrorBackgroundColor",
+      "focusColor": "DefaultForegroundColor",
+      "focusedBorderColor": "DefaultForegroundColor",
+      "disabledBorderColor": "DefaultBorderColor",
+      "arc": "15",
+      "borderColor": "DefaultBorderColor"
     },
     "Debugger": {
       "Variables.valueForeground": "VariableForegroundColor",
