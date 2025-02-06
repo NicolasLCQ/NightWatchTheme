@@ -581,9 +581,6 @@
       "selectedButtonColor": "SelectedBackgroundColor",
       "focusedSelectedButtonColor": "SelectedBackgroundColor"
     },
-    "Separator": {
-      "separatorColor": ""
-    },
     "SearchMatch": {
       "startBackground": "",
       "endBackground": ""
