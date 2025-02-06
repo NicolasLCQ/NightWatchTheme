@@ -732,10 +732,6 @@
       "selectionForeground": "DefaultForegroundColor",
       "selectionInactiveBackground": "SelectedBackgroundColor"
     },
-    "UiDesigner": {
-      "Preview.background": "",
-      "Panel.background": ""
-    },
     "UnattendedHostStatus": {
       "normalForeground": "",
       "normalBackground": "",
