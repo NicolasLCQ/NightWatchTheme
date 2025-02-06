@@ -588,9 +588,6 @@
       "startBackground": "SearchMatchStartBackgroundColor",
       "endBackground": "SearchMatchEndBackgroundColor"
     },
-    "SettingsTree": {
-      "rowHeight": ""
-    },
     "Shortcut": {
       "backgroundOpacity": "",
       "foregroundColor": "",
