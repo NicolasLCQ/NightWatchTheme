@@ -250,11 +250,10 @@
       "underlineHeight": "0"
     },
     "DisclosureButton": {
-      "textRightIconGap": "",
-      "pressedOverlay": "",
-      "hoverOverlay": "",
-      "defaultBackground": "",
-      "arc": ""
+      "pressedOverlay": "SelectedBackgroundColor",
+      "hoverOverlay": "DefaultBackgroundColor",
+      "defaultBackground": "DefaultBackgroundColor",
+      "arc": "15"
     },
     "DragAndDrop": {
       "rowBackground": "",
