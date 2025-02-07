@@ -317,8 +317,8 @@
       "background": ""
     },
     "Group": {
-      "disabledSeparatorColor": "",
-      "separatorColor": ""
+      "disabledSeparatorColor": "DefaultBorderColor",
+      "separatorColor": "DefaultBorderColor"
     },
     "GutterTooltip": {
       "lineSeparatorColor": "",
