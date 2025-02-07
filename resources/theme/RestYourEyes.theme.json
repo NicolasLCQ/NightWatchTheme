@@ -326,9 +326,6 @@
     "InformationHint": {
       "borderColor": ""
     },
-    "InplaceRefactoringPopup": {
-      "borderColor": ""
-    },
     "List": {
       "Tag.foreground": "",
       "Tag.background": "",
