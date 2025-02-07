@@ -50,7 +50,15 @@
 
     "Dev": "#FFFF00",
     "NotFound": "#00FF00",
-    "Deactivated": "#FF00FF"
+    "Deactivated": "#FF00FF",
+
+    "Yellow": "#64640030",
+    "Violet": "#64006430",
+    "Rose": "#96009630",
+    "Orange": "#aa5a0030",
+    "Green": "#00640030",
+    "Gray": "#7f7f7f30",
+    "Blue": "#00006430"
   },
   "ui": {
     "*": {
@@ -256,10 +264,10 @@
       "arc": "15"
     },
     "DragAndDrop": {
-      "rowBackground": "",
+      "rowBackground": "#00640030",
       "areaForeground": "",
       "areaBackground": "",
-      "borderColor": ""
+      "borderColor": "DefaultBorderColor"
     },
     "EditorPane": {
       "caretForeground": "DefaultForegroundColor"
@@ -272,13 +280,13 @@
       "hoverSelectedInactiveBackground": "HoverBackgroundColor"
     },
     "FileColor": {
-      "Yellow": "",
-      "Violet": "",
-      "Rose": "",
-      "Orange": "",
-      "Green": "",
-      "Gray": "",
-      "Blue": ""
+      "Yellow": "Yellow",
+      "Violet": "Violet",
+      "Rose": "Rose",
+      "Orange": "Orange",
+      "Green": "Green",
+      "Gray": "Gray",
+      "Blue": "Blue"
     },
     "FindPopup": {
       "scopesPanelInsets": "",
