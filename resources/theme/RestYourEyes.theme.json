@@ -288,10 +288,6 @@
       "Gray": "Gray30",
       "Blue": "Blue30"
     },
-    "FindPopup": {
-      "scopesPanelInsets": "",
-      "bottomPanelInsets": ""
-    },
     "GotItTooltip": {
       "textInset": "",
       "stepForeground": "",
