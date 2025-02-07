@@ -336,13 +336,10 @@
       "shortcutBackground": "DefaultBackgroundColor"
     },
     "LicenseDialog": {
-      "waitingLabelForeground": "",
-      "termsAndConditionsForeground": "",
-      "LicenseServer.separatorColor": "",
-      "LicenseList.separatorColor": "",
-      "LicenseList.licenseIdForeground": "",
-      "LicenseList.licenseDetailsForeground": "",
-      "separatorColor": ""
+      "waitingLabelForeground": "DisabledForegroundColor",
+      "termsAndConditionsForeground": "DefaultBackgroundColor",
+      "LicenseList.licenseIdForeground": "DefaultBackgroundColor",
+      "LicenseList.licenseDetailsForeground": "DefaultBackgroundColor"
     },
     "Link": {
       "visitedForeground": "",
