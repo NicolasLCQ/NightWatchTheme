@@ -330,10 +330,10 @@
       "successForeground": "DefaultForegroundColor"
     },
     "Lesson": {
-      "stepNumberForeground": "",
-      "Badge.newLessonForeground": "",
-      "Badge.newLessonBackground": "",
-      "shortcutBackground": ""
+      "stepNumberForeground": "DefaultForegroundColor",
+      "Badge.newLessonForeground": "DefaultForegroundColor",
+      "Badge.newLessonBackground": "DefaultBackgroundColor",
+      "shortcutBackground": "DefaultBackgroundColor"
     },
     "LicenseDialog": {
       "waitingLabelForeground": "",
