@@ -321,8 +321,7 @@
       "separatorColor": "DefaultBorderColor"
     },
     "GutterTooltip": {
-      "lineSeparatorColor": "",
-      "infoForeground": ""
+      "lineSeparatorColor": "DefaultBorderColor"
     },
     "HelpTooltip": {
       "borderColor": ""
