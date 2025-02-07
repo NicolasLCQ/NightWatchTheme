@@ -323,9 +323,6 @@
     "GutterTooltip": {
       "lineSeparatorColor": "DefaultBorderColor"
     },
-    "InformationHint": {
-      "borderColor": ""
-    },
     "List": {
       "Tag.foreground": "",
       "Tag.background": "",
