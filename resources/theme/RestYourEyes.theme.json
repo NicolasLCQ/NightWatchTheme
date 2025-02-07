@@ -324,23 +324,7 @@
       "lineSeparatorColor": "DefaultBorderColor"
     },
     "List": {
-      "Tag.foreground": "",
-      "Tag.background": "",
-      "selectionInactiveForeground": "",
-      "Line.hoverBackground": "",
-      "dropLineColor": "",
-      "Button.separatorInset": "",
-      "Button.separatorColor": "",
-      "Button.leftRightInset": "",
-      "Button.hoverBackground": "",
-      "rowHeight": "",
-      "selectionInactiveBackground": "",
-      "hoverInactiveBackground": "",
-      "hoverBackground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
+      "dropLineColor": "DefaultBorderColor"
     },
     "Label": {
       "successForeground": "",
