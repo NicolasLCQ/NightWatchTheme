@@ -327,14 +327,7 @@
       "dropLineColor": "DefaultBorderColor"
     },
     "Label": {
-      "successForeground": "",
-      "selectedForeground": "",
-      "errorForeground": "",
-      "disabledText": "",
-      "disabledForeground": "",
-      "infoForeground": "",
-      "foreground": "",
-      "background": ""
+      "successForeground": "DefaultForegroundColor"
     },
     "Lesson": {
       "stepNumberForeground": "",
