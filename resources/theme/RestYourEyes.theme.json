@@ -323,16 +323,6 @@
     "GutterTooltip": {
       "lineSeparatorColor": "DefaultBorderColor"
     },
-    "IconBadge": {
-      "dotY": "",
-      "dotX": "",
-      "dotRadius": "",
-      "infoBackground": "",
-      "successBackground": "",
-      "warningBackground": "",
-      "errorBackground": "",
-      "borderWidth": ""
-    },
     "InformationHint": {
       "borderColor": ""
     },
