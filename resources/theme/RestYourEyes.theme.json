@@ -52,13 +52,13 @@
     "NotFound": "#00FF00",
     "Deactivated": "#FF00FF",
 
-    "Yellow": "#64640030",
-    "Violet": "#64006430",
-    "Rose": "#96009630",
-    "Orange": "#aa5a0030",
-    "Green": "#00640030",
-    "Gray": "#7f7f7f30",
-    "Blue": "#00006430"
+    "Yellow30": "#64640030",
+    "Violet30": "#64006430",
+    "Rose30": "#96009630",
+    "Orange30": "#aa5a0030",
+    "Green30": "#00640030",
+    "Gray30": "#7f7f7f30",
+    "Blue30": "#00006430"
   },
   "ui": {
     "*": {
@@ -264,7 +264,7 @@
       "arc": "15"
     },
     "DragAndDrop": {
-      "rowBackground": "#00640030",
+      "rowBackground": "Green30",
       "areaForeground": "",
       "areaBackground": "",
       "borderColor": "DefaultBorderColor"
@@ -280,13 +280,13 @@
       "hoverSelectedInactiveBackground": "HoverBackgroundColor"
     },
     "FileColor": {
-      "Yellow": "Yellow",
-      "Violet": "Violet",
-      "Rose": "Rose",
-      "Orange": "Orange",
-      "Green": "Green",
-      "Gray": "Gray",
-      "Blue": "Blue"
+      "Yellow": "Yellow30",
+      "Violet": "Violet30",
+      "Rose": "Rose30",
+      "Orange": "Orange30",
+      "Green": "Green30",
+      "Gray": "Gray30",
+      "Blue": "Blue30"
     },
     "FindPopup": {
       "scopesPanelInsets": "",
