@@ -348,10 +348,6 @@
     "Menu": {
       "Selection.arc": "15"
     },
-    "MenuBar": {
-      "shadow": "",
-      "highlight": ""
-    },
     "Notification": {
       "ToolWindow": {
         "informativeBackground": "DefaultBackgroundColor",
