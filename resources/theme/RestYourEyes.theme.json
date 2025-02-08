@@ -47,6 +47,8 @@
     "ModifiedForegroundColor": "#000096",
 
     "LinkForegroundColor": "#000096",
+    "HoverLinkForegroundColor": "#004196",
+    "VisitedLinkForegroundColor": "#640096",
 
     "Dev": "#FFFF00",
     "NotFound": "#00FF00",
@@ -326,11 +328,11 @@
       "LicenseList.licenseDetailsForeground": "DefaultBackgroundColor"
     },
     "Link": {
-      "visitedForeground": "",
-      "secondaryForeground": "",
-      "pressedForeground": "",
-      "hoverForeground": "",
-      "activeForeground": ""
+      "visitedForeground": "VisitedLinkForegroundColor",
+      "secondaryForeground": "LinkForegroundColor",
+      "pressedForeground": "LinkForegroundColor",
+      "hoverForeground": "HoverLinkForegroundColor",
+      "activeForeground": "HoverLinkForegroundColor"
     },
     "MainMenu": {
       "transparentSelectionBackground": "SelectedBackgroundColor"
