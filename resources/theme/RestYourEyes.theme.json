@@ -399,8 +399,7 @@
       "inactiveBorderColor": "DefaultBorderColor",
       "Header.activeForeground": "DefaultForegroundColor",
       "Header.activeBackground": "DefaultBackgroundColor",
-      "Selection.arc": "15",
-      "separatorColor": ""
+      "Selection.arc": "15"
     },
     "PopupMenu": {
       "Selection.arc": "15"
