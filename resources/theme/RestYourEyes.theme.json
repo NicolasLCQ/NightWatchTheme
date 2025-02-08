@@ -339,20 +339,11 @@
     },
     "MainToolbar.background": "PureBlack",
     "MainWindow": {
-      "Tab.separatorColor": "",
-      "Tab.selectedInactiveBackground": "",
-      "Tab.selectedForeground": "",
-      "Tab.selectedBackground": "",
-      "Tab.hoverForeground": "",
-      "Tab.hoverBackground": "",
-      "Tab.foreground": "",
-      "Tab.borderColor": "",
-      "Tab.background": "",
       "FullScreeControl.Background": ""
     },
     "MemoryIndicator": {
-      "usedBackground": "",
-      "allocatedBackground": ""
+      "usedBackground": "DefaultBackgroundColor",
+      "allocatedBackground": "DefaultBackgroundColor"
     },
     "Menu": {
       "Selection.arc": "15"
