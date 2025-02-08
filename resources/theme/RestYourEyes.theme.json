@@ -414,7 +414,7 @@
       "projectAnalysisButtonBackground": "DefaultBackgroundColor"
     },
     "ProgressBar": {
-      "warningEndColor": "",
+      "warningEndColor": "WarningBackgroundColor",
       "warningColor": "WarningBackgroundColor",
       "trackColor": "",
       "progressColor": "SuccesBackgroundColor",
