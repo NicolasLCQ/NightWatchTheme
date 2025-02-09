@@ -544,15 +544,6 @@
     "TextField": {
       "inactiveForeground": "DisabledForegroundColor"
     },
-    "TextPane": {
-      "inactiveBackground": "",
-      "inactiveForeground": "",
-      "caretForeground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
-    },
     "TipOfTheDay": {
       "Image.borderColor": ""
     },
