@@ -541,15 +541,6 @@
       "bottomSeparatorColor": "DefaultBorderColor",
       "focusCellBackground": "SelectedBackgroundColor"
     },
-    "TextArea": {
-      "inactiveBackground": "",
-      "inactiveForeground": "",
-      "caretForeground": "",
-      "selectionForeground": "",
-      "selectionBackground": "",
-      "foreground": "",
-      "background": ""
-    },
     "TextComponent": {
       "selectionBackgroundInactive": ""
     },
