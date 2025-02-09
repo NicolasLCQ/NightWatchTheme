@@ -557,15 +557,8 @@
       "onForeground": "DefaultForegroundColor"
     },
     "ToolTip": {
-      "Actions.infoForeground": "",
-      "Actions.background": "",
-      "shortcutForeground": "",
-      "linkForeground": "",
-      "paintBorder": "",
-      "infoForeground": "",
-      "borderColor": "",
-      "foreground": "",
-      "background": ""
+      "shortcutForeground": "DefaultForegroundColor",
+      "paintBorder": "true"
     },
     "Tree": {
       "foreground": "DefaultForegroundColor",
