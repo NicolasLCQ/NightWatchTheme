@@ -537,12 +537,9 @@
       "lightSelectionBackground": "SelectedBackgroundColor"
     },
     "TableHeader": {
-      "cellBorder": "",
-      "bottomSeparatorColor": "",
-      "separatorColor": "",
-      "focusCellBackground": "",
-      "foreground": "",
-      "background": ""
+      "cellBorder": "DefaultBorderColor",
+      "bottomSeparatorColor": "DefaultBorderColor",
+      "focusCellBackground": "SelectedBackgroundColor"
     },
     "Tag": {
       "background": ""
