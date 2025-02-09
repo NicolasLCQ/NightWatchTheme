@@ -548,12 +548,7 @@
       "titleColor": "DefaultForegroundColor"
     },
     "TitlePane": {
-      "inactiveInfoForeground": "",
-      "Button.preferredSize": "",
-      "infoForeground": "",
-      "Button.hoverBackground": "",
-      "inactiveBackground": "",
-      "background": ""
+      "inactiveInfoForeground": "DefaultForegroundColor"
     },
     "ToggleButton": {
       "offBackground": "DefaultBackgroundColor",
