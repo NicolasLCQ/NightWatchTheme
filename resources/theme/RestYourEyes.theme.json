@@ -544,9 +544,6 @@
     "TextField": {
       "inactiveForeground": "DisabledForegroundColor"
     },
-    "TipOfTheDay": {
-      "Image.borderColor": ""
-    },
     "TitledBorder": {
       "titleColor": ""
     },
