@@ -541,9 +541,6 @@
       "bottomSeparatorColor": "DefaultBorderColor",
       "focusCellBackground": "SelectedBackgroundColor"
     },
-    "TextComponent": {
-      "selectionBackgroundInactive": ""
-    },
     "TextField": {
       "inactiveForeground": "DisabledForegroundColor"
     },
