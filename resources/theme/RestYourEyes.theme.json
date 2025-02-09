@@ -386,7 +386,7 @@
       "Button.installBackground": "DefaultBackgroundColor"
     },
     "Popup": {
-      "separatorForeground": "",
+      "separatorForeground": "DefaultBorderColor",
       "paintBorder": "DefaultBorderColor",
       "innerBorderColor": "DefaultBorderColor",
       "inactiveBorderColor": "DefaultBorderColor",
