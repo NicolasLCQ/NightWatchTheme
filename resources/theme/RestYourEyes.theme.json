@@ -541,9 +541,6 @@
       "bottomSeparatorColor": "DefaultBorderColor",
       "focusCellBackground": "SelectedBackgroundColor"
     },
-    "Tag": {
-      "background": ""
-    },
     "TextArea": {
       "inactiveBackground": "",
       "inactiveForeground": "",
