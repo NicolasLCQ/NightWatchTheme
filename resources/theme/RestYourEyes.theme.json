@@ -346,6 +346,7 @@
       "Selection.arc": "15"
     },
     "Notification": {
+      "errorForeground": "DefaultForegroundColor",
       "ToolWindow": {
         "informativeBackground": "DefaultBackgroundColor",
         "informativeBorderColor": "DefaultBorderColor",
