@@ -331,9 +331,6 @@
       "transparentSelectionBackground": "SelectedBackgroundColor"
     },
     "MainToolbar.background": "PureBlack",
-    "MainWindow": {
-      "FullScreeControl.Background": ""
-    },
     "MemoryIndicator": {
       "usedBackground": "DefaultBackgroundColor",
       "allocatedBackground": "DefaultBackgroundColor"
