@@ -453,7 +453,7 @@
     },
     "RunWidget": {
       "stopBackground": "StopButtonBackgroundColor",
-      "runningIconColor": "",
+      "runningIconColor": "DefaultForegroundColor",
       "runningBackground": "RunButtonBackgroundColor",
       "runIconColor": "RunButtonBackgroundColor",
       "iconColor": "RunButtonBackgroundColor"
