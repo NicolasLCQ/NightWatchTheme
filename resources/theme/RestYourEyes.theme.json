@@ -409,7 +409,7 @@
     "ProgressBar": {
       "warningEndColor": "WarningBackgroundColor",
       "warningColor": "WarningBackgroundColor",
-      "trackColor": "",
+      "trackColor": "SelectedBackgroundColor",
       "progressColor": "SuccesBackgroundColor",
       "passedEndColor": "SuccesBackgroundColor",
       "passedColor": "SuccesBackgroundColor",
