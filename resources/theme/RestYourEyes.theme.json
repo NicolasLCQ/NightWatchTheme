@@ -488,9 +488,7 @@
       "buttonColor": "",
       "shadow": "",
       "highlight": "",
-      "trackColor": "",
-      "foreground": "",
-      "background": ""
+      "trackColor": ""
     },
     "ToolWindow": {
       "HeaderTab": {
