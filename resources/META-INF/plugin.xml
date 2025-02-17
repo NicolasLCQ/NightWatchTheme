@@ -5,7 +5,7 @@
     <name>Rest Your Eyes</name>
     <category>UI</category>
     <vendor url="https://www.github.com/NicolasLCQ">NicolasLCQ</vendor>
-    <idea-version since-build="*" />
+    <idea-version since-build="241" />
     <description>A Dark theme with all value under 200 in order to rest your eyes when coding</description>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
