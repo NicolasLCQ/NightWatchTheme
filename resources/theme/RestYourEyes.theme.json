@@ -233,8 +233,8 @@
       "inactiveWarningFocusColor": "WarningBackgroundColor",
       "inactiveErrorFocusColor": "ErrorBackgroundColor",
       "errorFocusColor": "ErrorBackgroundColor",
-      "focusColor": "DefaultForegroundColor",
-      "focusedBorderColor": "DefaultForegroundColor",
+      "focusColor": "FocusBorderColor",
+      "focusedBorderColor": "DefaultBorderColor",
       "disabledBorderColor": "DefaultBorderColor",
       "arc": "15",
       "borderColor": "DefaultBorderColor"
@@ -300,7 +300,6 @@
       "Button.endBackground": "DefaultButtonEndGradientColor",
       "arc": "15",
       "shortcutForeground":"DefaultForegroundColor"
-
     },
     "Group": {
       "disabledSeparatorColor": "DefaultBorderColor",
