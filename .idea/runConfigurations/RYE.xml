@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="RYE" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-    <module name="RestYourEyesTheme" />
+    <module name="NightWatchTheme" />
     <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
     <option name="PROGRAM_PARAMETERS" value="" />
     <alternative-path path="theme" alternative-path-enabled="true" />
