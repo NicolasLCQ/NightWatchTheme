@@ -491,11 +491,11 @@
     },
     "ToolWindow": {
       "HeaderTab": {
-        "hoverBackground": "DefaultBackgroundColor",
-        "hoverInactiveBackground": "DefaultBackgroundColor",
+        "hoverBackground": "HoverBackgroundColor",
+        "hoverInactiveBackground": "HoverBackgroundColor",
         "underlinedTabBackground": "DefaultBackgroundColor",
         "underlineHeight": "0",
-        "selectedInactiveBackground": "DefaultBackgroundColor",
+        "selectedInactiveBackground": "SelectedBackgroundColor",
         "underlinedTabInactiveBackground": "DefaultBackgroundColor"
       }
     },
