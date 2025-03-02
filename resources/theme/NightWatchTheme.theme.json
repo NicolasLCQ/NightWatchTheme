@@ -28,7 +28,7 @@
     "DefaultButtonEndGradientColor": "#0000c8",
     "HighlightedButtonEndGradientColor": "#0000ff",
 
-    "DefaultBorderColor": "#141414",
+    "DefaultBorderColor": "#191919",
     "FocusBorderColor": "#000064",
     "ErrorBorderColor": "#640000",
     "SuccesBorderColor": "#006400",
