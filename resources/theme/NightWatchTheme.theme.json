@@ -561,7 +561,8 @@
       },
       "selectionBackground": "SelectedBackgroundColor",
       "selectionForeground": "DefaultForegroundColor",
-      "selectionInactiveBackground": "SelectedBackgroundColor"
+      "selectionInactiveBackground": "SelectedBackgroundColor",
+
     },
     "UnattendedHostStatus": {
       "normalForeground": "",
