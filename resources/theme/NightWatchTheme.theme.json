@@ -9,7 +9,7 @@
     "DefaultBackgroundColor": "#0A0A0A",
     "HoverBackgroundColor": "#1e1e1e",
     "SelectedBackgroundColor": "#1e1e1e",
-    "ErrorBackgroundColor": "#320000",
+    "ErrorBackgroundColor": "#000000",
     "WarningBackgroundColor": "#4b1900",
     "SuccesBackgroundColor": "#003200",
 
@@ -359,10 +359,6 @@
     },
     "OptionPane": {
       "messageForeground": "DefaultForegroundColor"
-    },
-    "Panel": {
-      "background": "DefaultBackgroundColor",
-      "foreground": "DefaultForegroundColor"
     },
     "ParameterInfo": {
       "currentParameterForeground": "DefaultForegroundColor",
