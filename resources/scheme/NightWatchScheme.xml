@@ -461,24 +461,28 @@
             <value>
                 <option name="FOREGROUND" value="79420d" />
                 <option name="BACKGROUND" value="693317" />
+                <option name="ERROR_STRIPE_COLOR" value="79420d" />
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
                 <option name="FOREGROUND" value="460c0c" />
                 <option name="BACKGROUND" value="460c0c" />
+                <option name="ERROR_STRIPE_COLOR" value="460c0c" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
                 <option name="FOREGROUND" value="3200" />
                 <option name="BACKGROUND" value="3200" />
+                <option name="ERROR_STRIPE_COLOR" value="3200" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
                 <option name="FOREGROUND" value="10334d" />
                 <option name="BACKGROUND" value="a4167" />
+                <option name="ERROR_STRIPE_COLOR" value="10334d" />
             </value>
         </option>
         <option name="DOC_CODE_BLOCK">
@@ -588,6 +592,7 @@
         <option name="INFO_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="ff873c" />
+                <option name="ERROR_STRIPE_COLOR" value="ff873c" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
