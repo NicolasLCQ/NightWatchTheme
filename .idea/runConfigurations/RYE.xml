@@ -3,7 +3,7 @@
     <module name="NightWatchTheme" />
     <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
     <option name="PROGRAM_PARAMETERS" value="" />
-    <alternative-path path="theme" alternative-path-enabled="true" />
+    <alternative-path path="IntelliJ IDEA Community Edition IC-243.26053.27" alternative-path-enabled="true" />
     <predefined_log_file enabled="true" id="idea.log" />
     <method v="2">
       <option name="Make" enabled="true" />
