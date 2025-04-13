@@ -548,8 +548,8 @@
       "onForeground": "DefaultForegroundColor"
     },
     "ToolTip": {
-      "shortcutForeground": "DefaultForegroundColor",
-      "paintBorder": "true"
+      "paintBorder": true,
+      "shortcutForeground": "DefaultForegroundColor"
     },
     "Tree": {
       "foreground": "DefaultForegroundColor",
