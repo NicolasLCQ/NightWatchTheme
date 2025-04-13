@@ -268,7 +268,7 @@
     "DragAndDrop": {
       "rowBackground": "Green30",
       "areaForeground": "",
-      "areaBackground": "",
+      "areaBackground": "Green30",
       "borderColor": "DefaultBorderColor"
     },
     "EditorPane": {
