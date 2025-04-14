@@ -267,7 +267,7 @@
     },
     "DragAndDrop": {
       "rowBackground": "Green30",
-      "areaForeground": "",
+      "areaForeground": "DefaultForegroundColor",
       "areaBackground": "Green30",
       "borderColor": "DefaultBorderColor"
     },
