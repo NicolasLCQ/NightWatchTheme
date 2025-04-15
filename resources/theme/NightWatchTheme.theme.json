@@ -9,7 +9,7 @@
     "DefaultBackgroundColor": "#0A0A0A",
     "HoverBackgroundColor": "#1e1e1e",
     "SelectedBackgroundColor": "#1e1e1e",
-    "ErrorBackgroundColor": "#000000",
+    "ErrorBackgroundColor": "#4b0000",
     "WarningBackgroundColor": "#4b1900",
     "SuccesBackgroundColor": "#003200",
 
@@ -75,70 +75,48 @@
     "Orange": "#aa5a00",
     "Green": "#006400",
     "Gray": "#7f7f7f",
-    "Blue": "#000064"
+    "Blue": "#000064",
+
+    "infoBadgeColor": "#008cff",
+    "successBadgeColor":"#00ff00",
+    "warningBadgeColor": "#ff7f00",
+    "errorBadgeColor":"#ff0000"
   },
   "ui": {
     "*": {
       "background": "DefaultBackgroundColor",
-
       "selectionBackground": "SelectedBackgroundColor",
       "selectionInactiveBackground": "SelectedBackgroundColor",
       "selectionBackgroundInactive": "SelectedBackgroundColor",
       "selectedInactiveBackground": "SelectedBackgroundColor",
       "selectedBackground": "SelectedBackgroundColor",
-
       "inactiveBackground": "DefaultBackgroundColor",
       "disabledBackground": "DefaultBackgroundColor",
-
       "hoverBackground": "HoverBackgroundColor",
       "hoverInactiveBackground": "HoverBackgroundColor",
-
-
-
       "foreground": "DefaultForegroundColor",
-
       "selectedForeground": "DefaultForegroundColor",
       "selectionForeground": "DefaultForegroundColor",
       "selectionInactiveForeground": "DefaultForegroundColor",
       "acceleratorSelectionForeground": "DefaultForegroundColor",
       "acceleratorForeground": "DefaultForegroundColor",
-
       "inactiveForeground": "DefaultForegroundColor",
       "disabledForeground": "DisabledForegroundColor",
-
       "hoverForeground": "DefaultForegroundColor",
-
-
-
       "disabledText": "DisabledForegroundColor",
-      "loadingForeground" : "DisabledForegroundColor",
-
+      "loadingForeground": "DisabledForegroundColor",
       "infoForeground": "DefaultForegroundColor",
       "errorForeground": "ErrorForegroundColor",
       "linkForeground": "LinkForegroundColor",
-
-
-
       "errorBackground": "ErrorBackgroundColor",
       "errorBorderColor": "ErrorBorderColor",
-
       "warningBackground": "WarningBackgroundColor",
       "warningBorderColor": "WarningBorderColor",
-
-
-
       "separatorColor": "DefaultBorderColor",
-
       "borderColor": "DefaultBorderColor",
       "disabledBorderColor": "DefaultBorderColor",
       "focusedBorderColor": "FocusBorderColor",
-
-
-
       "caretForeground": "DefaultForegroundColor",
-
-
-
       "arc": "15",
       "underlineHeight": "0"
     },
@@ -299,7 +277,7 @@
       "Button.endBorderColor": "DefaultButtonEndGradientColor",
       "Button.endBackground": "DefaultButtonEndGradientColor",
       "arc": "15",
-      "shortcutForeground":"DefaultForegroundColor"
+      "shortcutForeground": "DefaultForegroundColor"
     },
     "Group": {
       "disabledSeparatorColor": "DefaultBorderColor",
@@ -308,8 +286,11 @@
     "GutterTooltip": {
       "lineSeparatorColor": "DefaultBorderColor"
     },
-    "List": {
-      "dropLineColor": "DefaultBorderColor"
+    "IconBadge": {
+      "infoBackground": "infoBadgeColor",
+      "successBackground": "successBadgeColor",
+      "warningBackground": "warningBadgeColor",
+      "errorBackground": "errorBadgeColor"
     },
     "Label": {
       "successForeground": "DefaultForegroundColor"
@@ -332,6 +313,9 @@
       "pressedForeground": "LinkForegroundColor",
       "hoverForeground": "HoverLinkForegroundColor",
       "activeForeground": "HoverLinkForegroundColor"
+    },
+    "List": {
+      "dropLineColor": "DefaultBorderColor"
     },
     "MainMenu": {
       "transparentSelectionBackground": "SelectedBackgroundColor"
@@ -458,6 +442,10 @@
       "List.settingsBackground": "DefaultBackgroundColor",
       "List.separatorForeground": "DefaultBorderColor"
     },
+    "SearchMatch": {
+      "startBackground": "SearchMatchStartBackgroundColor",
+      "endBackground": "SearchMatchEndBackgroundColor"
+    },
     "SearchOption": {
       "selectedPressedBackground": "SelectedBackgroundColor",
       "selectedHoveredBackground": "HoverBackgroundColor",
@@ -468,10 +456,6 @@
       "selectedEndBorderColor": "DefaultButtonEndGradientColor",
       "selectedButtonColor": "SelectedBackgroundColor",
       "focusedSelectedButtonColor": "SelectedBackgroundColor"
-    },
-    "SearchMatch": {
-      "startBackground": "SearchMatchStartBackgroundColor",
-      "endBackground": "SearchMatchEndBackgroundColor"
     },
     "Shortcut": {
       "backgroundOpacity": "100",
@@ -485,29 +469,6 @@
       "shadow": "",
       "highlight": "",
       "trackColor": ""
-    },
-    "ToolWindow": {
-      "HeaderTab": {
-        "hoverBackground": "HoverBackgroundColor",
-        "hoverInactiveBackground": "HoverBackgroundColor",
-        "underlinedTabBackground": "DefaultBackgroundColor",
-        "underlineHeight": "0",
-        "selectedInactiveBackground": "SelectedBackgroundColor",
-        "underlinedTabInactiveBackground": "DefaultBackgroundColor"
-      }
-    },
-    "ToolBar": {
-      "verticalToolbarInsets": "",
-      "light": "",
-      "horizontalToolbarInsets": "",
-      "floatingForeground": "",
-      "borderHandleColor": "",
-      "separatorColor": "",
-      "foreground": "",
-      "shadow": "",
-      "highlight": "",
-      "darkShadow": "",
-      "background": ""
     },
     "TabbedPane": {
       "underlineColor": "SelectedBackgroundColor",
@@ -535,11 +496,11 @@
     "TextField": {
       "inactiveForeground": "DisabledForegroundColor"
     },
-    "TitledBorder": {
-      "titleColor": "DefaultForegroundColor"
-    },
     "TitlePane": {
       "inactiveInfoForeground": "DefaultForegroundColor"
+    },
+    "TitledBorder": {
+      "titleColor": "DefaultForegroundColor"
     },
     "ToggleButton": {
       "offBackground": "DefaultBackgroundColor",
@@ -547,9 +508,32 @@
       "offForeground": "DisabledForegroundColor",
       "onForeground": "DefaultForegroundColor"
     },
+    "ToolBar": {
+      "verticalToolbarInsets": "",
+      "light": "",
+      "horizontalToolbarInsets": "",
+      "floatingForeground": "",
+      "borderHandleColor": "",
+      "separatorColor": "",
+      "foreground": "",
+      "shadow": "",
+      "highlight": "",
+      "darkShadow": "",
+      "background": ""
+    },
     "ToolTip": {
       "paintBorder": true,
       "shortcutForeground": "DefaultForegroundColor"
+    },
+    "ToolWindow": {
+      "HeaderTab": {
+        "hoverBackground": "HoverBackgroundColor",
+        "hoverInactiveBackground": "HoverBackgroundColor",
+        "underlinedTabBackground": "DefaultBackgroundColor",
+        "underlineHeight": "0",
+        "selectedInactiveBackground": "SelectedBackgroundColor",
+        "underlinedTabInactiveBackground": "DefaultBackgroundColor"
+      }
     },
     "Tree": {
       "foreground": "DefaultForegroundColor",
