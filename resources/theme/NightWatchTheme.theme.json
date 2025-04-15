@@ -9,9 +9,9 @@
     "DefaultBackgroundColor": "#0A0A0A",
     "HoverBackgroundColor": "#1e1e1e",
     "SelectedBackgroundColor": "#1e1e1e",
-    "ErrorBackgroundColor": "#4b0000",
+    "ErrorBackgroundColor": "#190000",
     "WarningBackgroundColor": "#4b1900",
-    "SuccesBackgroundColor": "#003200",
+    "SuccesBackgroundColor": "#001900",
 
     "StopButtonBackgroundColor": "#640000",
     "RunButtonBackgroundColor": "#006400",
