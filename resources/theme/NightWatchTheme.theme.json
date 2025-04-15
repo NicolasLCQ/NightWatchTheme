@@ -8,10 +8,12 @@
 
     "DefaultBackgroundColor": "#0A0A0A",
     "HoverBackgroundColor": "#1e1e1e",
+    "HighlightedBackgroundColor": "#0f0f0f",
     "SelectedBackgroundColor": "#1e1e1e",
     "ErrorBackgroundColor": "#190000",
     "WarningBackgroundColor": "#4b1900",
     "SuccesBackgroundColor": "#001900",
+    "InfoBackgroundColor": "#000019",
 
     "StopButtonBackgroundColor": "#640000",
     "RunButtonBackgroundColor": "#006400",
@@ -33,6 +35,7 @@
     "ErrorBorderColor": "#640000",
     "SuccesBorderColor": "#006400",
     "WarningBorderColor": "#643200",
+    "InfoBorderColor": "#000064",
 
     "ToUpdateBorderColor": "#006464",
     "ToInstallBorderColor": "#006400",
@@ -129,8 +132,8 @@
     "Banner": {
       "errorBackground": "ErrorBackgroundColor",
       "errorBorderColor": "ErrorBorderColor",
-      "infoBackground": "DefaultBackgroundColor",
-      "infoBorderColor": "DefaultBorderColor",
+      "infoBackground": "InfoBackgroundColor",
+      "infoBorderColor": "InfoBorderColor",
       "successBackground": "SuccesBackgroundColor",
       "successBorderColor": "SuccesBorderColor",
       "warningBackground": "WarningBackgroundColor",
@@ -340,6 +343,9 @@
       },
       "arc": "15",
       "linkForeground": "LinkForegroundColor"
+    },
+    "NotificationsToolwindow": {
+      "newNotification.background": "HighlightedBackgroundColor"
     },
     "OptionPane": {
       "messageForeground": "DefaultForegroundColor"
