@@ -14,6 +14,7 @@
     "WarningBackgroundColor": "#4b1900",
     "SuccesBackgroundColor": "#001900",
     "InfoBackgroundColor": "#000019",
+    "NotificationBackgroundColor": "#000019",
 
     "StopButtonBackgroundColor": "#640000",
     "RunButtonBackgroundColor": "#006400",
@@ -332,9 +333,17 @@
       "Selection.arc": "15"
     },
     "Notification": {
+      "background": "NotificationBackgroundColor",
+      "errorBackground": "ErrorBackgroundColor",
       "errorForeground": "DefaultForegroundColor",
       "ToolWindow": {
-        "informativeBackground": "DefaultBackgroundColor",
+        "warningBackground": "WarningBackgroundColor",
+        "warningBorderColor": "WarningBorderColor",
+        "warningForeground": "DefaultForegroundColor",
+        "errorBackground": "ErrorBackgroundColor",
+        "errorBorderColor": "ErrorBorderColor",
+        "errorForeground": "DefaultForegroundColor",
+        "informativeBackground": "InfoBackgroundColor",
         "informativeBorderColor": "DefaultBorderColor",
         "informativeForeground": "DefaultForegroundColor"
       },
