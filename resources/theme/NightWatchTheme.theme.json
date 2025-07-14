@@ -3,6 +3,12 @@
   "author": "NicolasLCQ",
   "dark": true,
   "editorScheme": "/scheme/NightWatchScheme.xml",
+  "emptyFrameBackground": {
+    "image": "/images/background.png",
+    "transparency": 10,
+    "fill": "scale",
+    "anchor": "center"
+  },
   "colors": {
     "PureBlack": "#000000",
 
