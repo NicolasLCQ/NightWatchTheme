@@ -9,7 +9,7 @@
     <description>A dark theme with minimal brightness to reduce eye strain while coding, except for select components that provide a bit of contrast.</description>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme id="NightWatchScheme" path="/scheme/NightWatchScheme.xml"/>
         <themeProvider id="NightWatchTheme" path="/theme/NightWatchTheme.theme.json"/>
+        <bundledColorScheme id="NightWatchScheme" path="/scheme/NightWatchScheme.xml" />
     </extensions>
 </idea-plugin>
