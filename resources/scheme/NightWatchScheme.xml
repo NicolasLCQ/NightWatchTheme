@@ -1,4 +1,4 @@
-﻿<scheme name="NightWatchScheme" version="142" parent_scheme="Darcula">
+﻿<scheme name="NightWatchScheme" version="142">
     <option name="FONT_SCALE" value="1.0" />
     <console-font>
         <option name="EDITOR_FONT_NAME" value="Consolas" />
