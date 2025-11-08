@@ -473,8 +473,7 @@
       "focusedSelectedButtonColor": "SelectedBackgroundColor"
     },
     "Shortcut": {
-      "backgroundOpacity": 100,
-      "backgroundColor": "DefaultBackgroundColor"
+      "backgroundOpacity": 100
     },
     "Slider": {
       "tickColor": "",
