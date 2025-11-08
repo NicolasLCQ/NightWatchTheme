@@ -2,6 +2,7 @@
   "name": "NightWatchTheme",
   "author": "NicolasLCQ",
   "dark": true,
+  "editorScheme": "NightWatchScheme",
   "colors": {
     "PureBlack": "#000000",
 
