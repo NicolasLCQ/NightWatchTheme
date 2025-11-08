@@ -122,7 +122,8 @@
       "focusedBorderColor": "FocusBorderColor",
       "caretForeground": "DefaultForegroundColor",
       "arc": 15,
-      "underlineHeight": "0"
+      "underlineHeight": "0",
+      "rowHeight": 0
     },
     "ActionButton": {
       "hoverBackground": "HoverBackgroundColor",
