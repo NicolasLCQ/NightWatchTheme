@@ -205,7 +205,7 @@
       "modifiedItemForeground": "ModifiedForegroundColor"
     },
     "ComboPopup": {
-      "border": "DefaultBorderColor"
+      "border": "1,1,1,1,191919"
     },
     "CompletionPopup": {
       "matchForeground": "DisabledForegroundColor",
@@ -596,8 +596,8 @@
       "separatorColor": "DefaultBorderColor"
     },
     "Window": {
-      "undecorated.border": "DefaultBorderColor",
-      "border": "DefaultBorderColor"
+      "undecorated.border": "1,1,1,1,191919",
+      "border": "1,1,1,1,191919"
     }
   }
 }
