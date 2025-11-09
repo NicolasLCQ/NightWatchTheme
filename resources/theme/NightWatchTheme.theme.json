@@ -126,7 +126,6 @@
       "rowHeight": 0
     },
     "ActionButton": {
-      "hoverBackground": "HoverBackgroundColor",
       "hoverBorderColor": "HoverBackgroundColor",
       "pressedBackground": "SelectedBackgroundColor",
       "pressedBorderColor": "SelectedBackgroundColor"
@@ -540,18 +539,16 @@
     },
     "ToolWindow": {
       "HeaderTab": {
-        "hoverBackground": "HoverBackgroundColor",
-        "hoverInactiveBackground": "HoverBackgroundColor",
-        "underlinedTabBackground": "DefaultBackgroundColor",
-        "underlineHeight": "0",
+        "underlinedTabBackground": "SelectedBackgroundColor",
+        "underlineHeight": 1,
+        "underlineColor": "DefaultBorderColor",
+        "inactiveUnderlineColor": "DefaultBorderColor",
         "selectedInactiveBackground": "SelectedBackgroundColor",
-        "underlinedTabInactiveBackground": "DefaultBackgroundColor"
+        "underlinedTabInactiveBackground": "SelectedBackgroundColor"
       }
     },
     "Tree": {
       "foreground": "DefaultForegroundColor",
-      "hoverInactiveBackground": "HoverBackgroundColor",
-      "hoverBackground": "HoverBackgroundColor",
       "errorForeground": "ErrorForegroundColor",
       "Selection": {
         "arc": 15
