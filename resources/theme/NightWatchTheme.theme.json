@@ -32,6 +32,7 @@
     "HighlightedButtonEndGradientColor": "#0000ff",
 
     "DefaultBorderColor": "#191919",
+    "TransparentBorderColor": "#00000000",
     "FocusBorderColor": "#000064",
     "ErrorBorderColor": "#640000",
     "SuccesBorderColor": "#006400",
@@ -124,6 +125,19 @@
       "arc": 15,
       "underlineHeight": "0",
       "rowHeight": 0
+    },
+    "Islands": 1,
+    "Island": {
+      "arc": 15,
+      "arc.compact": 0,
+      "borderWidth": 5,
+      "borderWidth.compact": 0,
+      "inactiveAlpha": 1,
+      "inactiveAlphaInStatusBar": {
+        "os.mac": 1,
+        "os.windows": 1,
+        "os.linux": 1
+      }
     },
     "ActionButton": {
       "hoverBorderColor": "HoverBackgroundColor",
@@ -538,6 +552,11 @@
       "shortcutForeground": "DefaultForegroundColor"
     },
     "ToolWindow": {
+      "Stripe": {
+        "background": "DefaultBackgroundColor",
+        "borderColor": "TransparentBorderColor",
+        "separatorColor": "DefaultBorderColor"
+      },
       "HeaderTab": {
         "underlinedTabBackground": "SelectedBackgroundColor",
         "underlineHeight": 1,
@@ -548,6 +567,8 @@
       }
     },
     "Tree": {
+      "border": "4,13,4,13",
+      "border.compact": "2,8,2,8",
       "foreground": "DefaultForegroundColor",
       "errorForeground": "ErrorForegroundColor",
       "Selection": {
