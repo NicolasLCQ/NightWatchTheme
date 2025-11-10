@@ -5,6 +5,7 @@
   "editorScheme": "NightWatchScheme",
   "colors": {
     "PureBlack": "#000000",
+    "MainToolbarReflectColor": "#500000",
 
     "DefaultBackgroundColor": "#0A0A0A",
     "HoverBackgroundColor": "#1e1e1e",
@@ -129,9 +130,7 @@
     "Islands": 1,
     "Island": {
       "arc": 15,
-      "arc.compact": 0,
       "borderWidth": 5,
-      "borderWidth.compact": 0,
       "inactiveAlpha": 0,
       "inactiveAlphaInStatusBar": {
         "os.mac": 0,
@@ -275,7 +274,8 @@
       "underlinedTabForeground": "DefaultForegroundColor",
       "underlinedTabBackground": "SelectedBackgroundColor",
       "hoverSelectedBackground": "HoverBackgroundColor",
-      "hoverSelectedInactiveBackground": "HoverBackgroundColor"
+      "hoverSelectedInactiveBackground": "HoverBackgroundColor",
+      "tabInsets": "-7,8,-7,8"
     },
     "FileColor": {
       "Yellow": "Yellow30",
@@ -568,7 +568,6 @@
     },
     "Tree": {
       "border": "4,13,4,13",
-      "border.compact": "2,8,2,8",
       "foreground": "DefaultForegroundColor",
       "errorForeground": "ErrorForegroundColor",
       "Selection": {
@@ -616,6 +615,15 @@
     "Window": {
       "undecorated.border": "1,1,1,1,191919",
       "border": "1,1,1,1,191919"
-    }
+    },
+    "RecentProject.Color1.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color2.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color3.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color4.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color5.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color6.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color7.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color8.MainToolbarGradientStart": "MainToolbarReflectColor",
+    "RecentProject.Color9.MainToolbarGradientStart": "MainToolbarReflectColor"
   }
 }
