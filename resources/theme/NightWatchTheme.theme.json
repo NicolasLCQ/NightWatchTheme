@@ -273,9 +273,11 @@
       "underlineHeight": "0",
       "underlinedTabForeground": "DefaultForegroundColor",
       "underlinedTabBackground": "SelectedBackgroundColor",
+      "underlinedBorderColor": "DefaultBorderColor",
       "hoverSelectedBackground": "HoverBackgroundColor",
       "hoverSelectedInactiveBackground": "HoverBackgroundColor",
-      "tabInsets": "-7,8,-7,8"
+      "tabInsets": "-7,8,-7,8",
+      "tabContentActionsRightInsets": "0,0,0,0"
     },
     "FileColor": {
       "Yellow": "Yellow30",
