@@ -130,7 +130,7 @@
     "Islands": 1,
     "Island": {
       "arc": 15,
-      "borderWidth": 5,
+      "borderWidth": 6,
       "inactiveAlpha": 0,
       "inactiveAlphaInStatusBar": {
         "os.mac": 0,
@@ -603,15 +603,15 @@
       "FileHistory.Commit.selectedBranchBackground": "DefaultBackgroundColor"
     },
     "WelcomeScreen": {
-      "Projects.actions.selectionBorderColor": "DefaultBorderColor",
       "LearnTab.CourseCard.hover": "HoverBackgroundColor",
-      "headerForeground": "DefaultForegroundColor",
-      "headerBackground": "DefaultBackgroundColor",
-      "groupIconBorderColor": "DefaultBorderColor",
-      "footerForeground": "DefaultForegroundColor",
-      "footerBackground": "DefaultBackgroundColor",
-      "captionForeground": "DefaultForegroundColor",
+      "Projects.actions.selectionBorderColor": "DefaultBorderColor",
       "captionBackground": "DefaultBackgroundColor",
+      "captionForeground": "DefaultForegroundColor",
+      "footerBackground": "DefaultBackgroundColor",
+      "footerForeground": "DefaultForegroundColor",
+      "groupIconBorderColor": "DefaultBorderColor",
+      "headerBackground": "DefaultBackgroundColor",
+      "headerForeground": "DefaultForegroundColor",
       "separatorColor": "DefaultBorderColor"
     },
     "Window": {
